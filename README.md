@@ -1,3 +1,4 @@
+<img src="\im.jpg" />
 ## Oi, meu nome é Alberto,
 
 * Sou engenheiro mecânico
